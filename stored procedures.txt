@@ -1,0 +1,53 @@
+EmployeeID
+Name
+Age
+State
+Country
+--add a table (named Employee)
+CREATE TABLE [dbo].[Employee]
+(
+[EmployeeID] INT IDENTITY (1, 1) NOT NULL, NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(50) NULL, 
+    [Age] INT NULL, 
+    [State] NCHAR(50) NULL, 
+    [Country] NCHAR(50) NULL, 
+    CONSTRAINT [PK_Employee] PRIMARY KEY ([EmployeeID])
+)
+--Select Employees  
+Create Procedure SelectEmployee    
+as     
+Begin    
+Select * from Employee;    
+End  
+  
+--Insert and Update Employee  
+Create Procedure InsertUpdateEmployee    
+(    
+@Id integer,    
+@Name nvarchar(50),    
+@Age integer,    
+@State nvarchar(50),    
+@Country nvarchar(50),    
+@Action varchar(10)    
+)    
+As    
+Begin    
+if @Action='Insert'    
+Begin    
+ Insert into Employee(Name,Age,[State],Country) values(@Name,@Age,@State,@Country);    
+End    
+if @Action='Update'    
+Begin    
+ Update Employee set Name=@Name,Age=@Age,[State]=@State,Country=@Country where EmployeeID=@Id;    
+End      
+End  
+  
+--Delete Employee  
+Create Procedure DeleteEmployee    
+(    
+ @Id integer    
+)    
+as     
+Begin    
+ Delete Employee where EmployeeID=@Id;    
+End  

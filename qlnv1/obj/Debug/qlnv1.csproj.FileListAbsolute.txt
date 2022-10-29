@@ -1,0 +1,216 @@
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\qlnv1.dll.config
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\qlnv1.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\qlnv1.pdb
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\csc.exe
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\csc.exe.config
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\csc.rsp
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\csi.exe
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\csi.exe.config
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\csi.rsp
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.AppContext.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Collections.Immutable.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Console.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.IO.Compression.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.IO.FileSystem.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Net.Http.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Net.Sockets.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.ValueTuple.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Xml.XPath.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\vbc.exe
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\vbc.exe.config
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\vbc.rsp
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\VBCSCompiler.exe
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\roslyn\VBCSCompiler.exe.config
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\Microsoft.Web.Infrastructure.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Helpers.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Mvc.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Razor.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Webpages.Deployment.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Webpages.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Webpages.Razor.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Razor.xml
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Webpages.xml
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Webpages.Deployment.xml
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Webpages.Razor.xml
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Helpers.xml
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\System.Web.Mvc.xml
+D:\Lap trinh C# can ban\qlnv1\qlnv1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lap trinh C# can ban\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.AssemblyReference.cache
+D:\Lap trinh C# can ban\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.CoreCompileInputs.cache
+D:\Lap trinh C# can ban\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.CopyComplete
+D:\Lap trinh C# can ban\qlnv1\qlnv1\obj\Debug\qlnv1.dll
+D:\Lap trinh C# can ban\qlnv1\qlnv1\obj\Debug\qlnv1.pdb
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\qlnv1.dll.config
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\qlnv1.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\qlnv1.pdb
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\csc.exe
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\csc.exe.config
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\csc.rsp
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\csi.exe
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\csi.exe.config
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\csi.rsp
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.AppContext.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Console.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.IO.Compression.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Net.Http.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.ValueTuple.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\vbc.exe
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\vbc.exe.config
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\vbc.rsp
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\VBCSCompiler.exe
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Helpers.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Mvc.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Razor.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Webpages.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Webpages.Razor.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Razor.xml
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Webpages.xml
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Webpages.Razor.xml
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Helpers.xml
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\System.Web.Mvc.xml
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.AssemblyReference.cache
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.CoreCompileInputs.cache
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.CopyComplete
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\obj\Debug\qlnv1.dll
+C:\Users\HTDANG\Desktop\qlnv1\qlnv1\obj\Debug\qlnv1.pdb
+D:\WinForm\qlnv1\qlnv1\bin\qlnv1.dll.config
+D:\WinForm\qlnv1\qlnv1\bin\qlnv1.dll
+D:\WinForm\qlnv1\qlnv1\bin\qlnv1.pdb
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\csc.exe
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\csc.exe.config
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\csc.rsp
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\csi.exe
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\csi.exe.config
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\csi.rsp
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.AppContext.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Collections.Immutable.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Console.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Globalization.Calendars.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.IO.Compression.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.IO.FileSystem.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Net.Http.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Net.Sockets.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Reflection.Metadata.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.ValueTuple.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Xml.XPath.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\vbc.exe
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\vbc.exe.config
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\vbc.rsp
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\VBCSCompiler.exe
+D:\WinForm\qlnv1\qlnv1\bin\roslyn\VBCSCompiler.exe.config
+D:\WinForm\qlnv1\qlnv1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WinForm\qlnv1\qlnv1\bin\Microsoft.Web.Infrastructure.dll
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Helpers.dll
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Mvc.dll
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Razor.dll
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Webpages.Deployment.dll
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Webpages.dll
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Webpages.Razor.dll
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Razor.xml
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Webpages.xml
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Webpages.Deployment.xml
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Webpages.Razor.xml
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Helpers.xml
+D:\WinForm\qlnv1\qlnv1\bin\System.Web.Mvc.xml
+D:\WinForm\qlnv1\qlnv1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WinForm\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.AssemblyReference.cache
+D:\WinForm\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.CoreCompileInputs.cache
+D:\WinForm\qlnv1\qlnv1\obj\Debug\qlnv1.csproj.CopyComplete
+D:\WinForm\qlnv1\qlnv1\obj\Debug\qlnv1.dll
+D:\WinForm\qlnv1\qlnv1\obj\Debug\qlnv1.pdb
